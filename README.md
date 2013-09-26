@@ -1,4 +1,5 @@
-nombre: Nuria Bermejo
-edad: 25
-ocio: musicia
-carrera: ET Telecos
+<nombre>Nuria Bermejo</nombre>
+<edad>25</edad>
+<ocio>musica</ocio>
+<carrera>ET Telecos</carrera>                                                                                                                                                                                                                                                                                                                                                                                                                                               
+>>>>>>> nuria
